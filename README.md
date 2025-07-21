@@ -1,2 +1,4 @@
 # prolifik
-my first GitHub
+my first GitHub 
+I'm learning how to use Git Hub
+"Updated README with intro"
